@@ -1,7 +1,7 @@
 # Pizza Sales Dashboard
 This project is a comprehensive Pizza Sales Dashboard built in Power BI to analyze key sales metrics and derive insights from a fictional pizza restaurant's dataset. It visualizes daily trends, product performance, and customer behavior over time to support strategic decisions for restaurant management and marketing.
 
-📊 Key Features
+📊 KEY FEATURES
 
 Total Sales Tracking: Monitor overall revenue generated (Total: $817.9K).
 
@@ -19,7 +19,7 @@ Monthly Sales Trends: Analyze performance throughout the year.
 
 Average Order Value (AOV): Current AOV is $16.8.
 
-📌 Visuals Included
+📌 VISUALS INCLUDED
 
 Bar & column charts for category and product analysis
 
@@ -31,7 +31,7 @@ Donut chart for size-based sales distribution
 
 Card KPIs for totals and averages
 
-🛠️ Tools Used
+🛠️ TOOLS USED
 
 Power BI Desktop
 
@@ -39,7 +39,7 @@ DAX (for custom measures)
 
 Power Query & PostgreSQL (data cleaning & transformation)
 
-📈 Insights Generated
+📈 INSIGHTS GENERATED
 
 Friday is the busiest day with 8242 total orders.
 
